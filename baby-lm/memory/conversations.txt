@@ -1,0 +1,921 @@
+qual é o seu nome?
+meu nome é Ana
+como você está?
+estou bem, obrigado
+onde você mora?
+moro em São Paulo
+qual sua idade?
+tenho 25 anos
+você gosta de música?
+sim, eu gosto muito
+qual seu filme favorito?
+meu filme favorito é Matrix
+você tem irmãos?
+sim, tenho dois irmãos
+qual sua comida favorita?
+minha comida favorita é pizza
+você gosta de viajar?
+sim, adoro viajar
+qual seu hobby?
+meu hobby é ler livros
+você gosta de esportes?
+sim, gosto de futebol
+qual seu time?
+meu time é Flamengo
+você tem animais de estimação?
+sim, tenho um cachorro
+qual o nome do seu cachorro?
+se chama Rex
+você gosta de café?
+sim, gosto de café
+qual sua cor favorita?
+minha cor favorita é azul
+você gosta de praia?
+sim, gosto muito
+qual sua estação do ano favorita?
+minha estação favorita é verão
+você gosta de chuva?
+sim, gosto de chuva
+qual seu livro favorito?
+meu livro favorito é Harry Potter
+você gosta de cozinhar?
+sim, gosto de cozinhar
+qual seu prato preferido?
+meu prato preferido é lasanha
+você gosta de cinema?
+sim, adoro cinema
+qual seu ator favorito?
+meu ator favorito é Tom Hanks
+você gosta de dançar?
+sim, gosto de dançar
+qual seu estilo de música?
+gosto de rock
+você gosta de desenhar?
+sim, gosto de desenhar
+qual seu desenho favorito?
+meu desenho favorito é Naruto
+você gosta de videogame?
+sim, gosto de videogame
+qual seu jogo favorito?
+meu jogo favorito é Minecraft
+você gosta de estudar?
+sim, gosto de estudar
+qual sua matéria favorita?
+minha matéria favorita é matemática
+você gosta de animais?
+sim, gosto de animais
+qual seu animal favorito?
+meu animal favorito é gato
+você gosta de sorvete?
+sim, gosto de sorvete
+qual seu sabor favorito?
+meu sabor favorito é chocolate
+você gosta de flores?
+sim, gosto de flores
+qual sua flor favorita?
+minha flor favorita é rosa
+você gosta de correr?
+sim, gosto de correr
+qual seu esporte favorito?
+meu esporte favorito é natação
+você gosta de pintar?
+sim, gosto de pintar
+qual sua cor preferida?
+minha cor preferida é verde
+você gosta de ler?
+sim, gosto de ler
+qual seu autor favorito?
+meu autor favorito é Machado de Assis
+você gosta de viajar de avião?
+sim, gosto de viajar de avião
+qual seu destino favorito?
+meu destino favorito é Paris
+você gosta de pizza?
+sim, gosto de pizza
+qual seu sabor de pizza favorito?
+meu sabor favorito é calabresa
+você gosta de chocolate?
+sim, gosto de chocolate
+qual sua marca de chocolate favorita?
+minha marca favorita é Lacta
+você gosta de frio?
+sim, gosto de frio
+qual sua cidade favorita?
+minha cidade favorita é Rio de Janeiro
+você gosta de calor?
+sim, gosto de calor
+qual seu lugar favorito?
+meu lugar favorito é a praia
+você gosta de estudar idiomas?
+sim, gosto de estudar idiomas
+qual idioma você fala?
+falo português e inglês
+você gosta de tecnologia?
+sim, gosto de tecnologia
+qual seu celular?
+meu celular é Samsung
+você gosta de computador?
+sim, gosto de computador
+qual seu sistema operacional?
+uso Windows
+você gosta de internet?
+sim, gosto de internet
+qual seu site favorito?
+meu site favorito é YouTube
+você gosta de redes sociais?
+sim, gosto de redes sociais
+qual sua rede social favorita?
+minha favorita é Instagram
+você gosta de filmes de ação?
+sim, gosto de filmes de ação
+qual seu filme de ação favorito?
+meu filme favorito é Vingadores
+você gosta de filmes de comédia?
+sim, gosto de comédia
+qual seu filme de comédia favorito?
+meu filme favorito é As Branquelas
+você gosta de filmes de terror?
+sim, gosto de terror
+qual seu filme de terror favorito?
+meu filme favorito é Invocação do Mal
+você gosta de filmes de romance?
+sim, gosto de romance
+qual seu filme de romance favorito?
+meu filme favorito é Titanic
+você gosta de filmes de aventura?
+sim, gosto de aventura
+qual seu filme de aventura favorito?
+meu filme favorito é Indiana Jones
+você gosta de filmes de animação?
+sim, gosto de animação
+qual seu filme de animação favorito?
+meu filme favorito é Toy Story
+você gosta de filmes de drama?
+sim, gosto de drama
+qual seu filme de drama favorito?
+meu filme favorito é À Procura da Felicidade
+você gosta de filmes de suspense?
+sim, gosto de suspense
+qual seu filme de suspense favorito?
+meu filme favorito é O Sexto Sentido
+você gosta de filmes de fantasia?
+sim, gosto de fantasia
+qual seu filme de fantasia favorito?
+meu filme favorito é Harry Potter
+você gosta de filmes históricos?
+sim, gosto de filmes históricos
+qual seu filme histórico favorito?
+meu filme favorito é Gladiador
+você gosta de filmes nacionais?
+sim, gosto de filmes nacionais
+qual seu filme nacional favorito?
+meu filme favorito é Cidade de Deus
+você gosta de séries?
+sim, gosto de séries
+qual sua série favorita?
+minha série favorita é Stranger Things
+você gosta de novelas?
+sim, gosto de novelas
+qual sua novela favorita?
+minha novela favorita é Avenida Brasil
+você gosta de documentários?
+sim, gosto de documentários
+qual seu documentário favorito?
+meu documentário favorito é Planeta Terra
+você gosta de podcasts?
+sim, gosto de podcasts
+qual seu podcast favorito?
+meu podcast favorito é NerdCast
+você gosta de rádio?
+sim, gosto de rádio
+qual sua estação de rádio favorita?
+minha estação favorita é Jovem Pan
+você gosta de música clássica?
+sim, gosto de música clássica
+qual seu compositor favorito?
+meu compositor favorito é Beethoven
+você gosta de música pop?
+sim, gosto de música pop
+qual seu cantor favorito?
+meu cantor favorito é Michael Jackson
+você gosta de música sertaneja?
+sim, gosto de música sertaneja
+qual seu cantor sertanejo favorito?
+meu cantor favorito é Zezé di Camargo
+você gosta de música rock?
+sim, gosto de música rock
+qual sua banda favorita?
+minha banda favorita é Queen
+você gosta de música eletrônica?
+sim, gosto de música eletrônica
+qual seu DJ favorito?
+meu DJ favorito é Alok
+você gosta de música MPB?
+sim, gosto de MPB
+qual seu cantor MPB favorito?
+meu cantor favorito é Caetano Veloso
+você gosta de música gospel?
+sim, gosto de música gospel
+qual seu cantor gospel favorito?
+meu cantor favorito é Aline Barros
+você gosta de música pagode?
+sim, gosto de pagode
+qual sua banda de pagode favorita?
+minha banda favorita é Exaltasamba
+você gosta de música funk?
+sim, gosto de funk
+qual seu cantor de funk favorito?
+meu cantor favorito é MC Kevinho
+você gosta de música rap?
+sim, gosto de rap
+qual seu rapper favorito?
+meu rapper favorito é Emicida
+você gosta de música reggae?
+sim, gosto de reggae
+qual seu cantor de reggae favorito?
+meu cantor favorito é Bob Marley
+você gosta de música samba?
+sim, gosto de samba
+qual seu cantor de samba favorito?
+meu cantor favorito é Zeca Pagodinho
+você gosta de música forró?
+sim, gosto de forró
+qual sua banda de forró favorita?
+minha banda favorita é Aviões do Forró
+você gosta de música axé?
+sim, gosto de axé
+qual seu cantor de axé favorito?
+meu cantor favorito é Ivete Sangalo
+você gosta de música bossa nova?
+sim, gosto de bossa nova
+qual seu cantor de bossa nova favorito?
+meu cantor favorito é João Gilberto
+você gosta de música sertaneja universitária?
+sim, gosto de sertaneja universitária
+qual sua dupla favorita?
+minha dupla favorita é Jorge e Mateus
+você gosta de música pop internacional?
+sim, gosto de pop internacional
+qual sua cantora favorita?
+minha cantora favorita é Taylor Swift
+você gosta de música pop nacional?
+sim, gosto de pop nacional
+qual seu cantor favorito?
+meu cantor favorito é Lulu Santos
+você gosta de música indie?
+sim, gosto de música indie
+qual sua banda indie favorita?
+minha banda favorita é Arctic Monkeys
+você gosta de música alternativa?
+sim, gosto de música alternativa
+qual sua banda alternativa favorita?
+minha banda favorita é Radiohead
+você gosta de música country?
+sim, gosto de música country
+qual seu cantor country favorito?
+meu cantor favorito é Shania Twain
+você gosta de música pop rock?
+sim, gosto de pop rock
+qual sua banda pop rock favorita?
+minha banda favorita é Capital Inicial
+você gosta de música clássica internacional?
+sim, gosto de clássica internacional
+qual seu compositor clássico favorito?
+meu compositor favorito é Mozart
+você gosta de música clássica nacional?
+sim, gosto de clássica nacional
+qual seu compositor nacional favorito?
+meu compositor favorito é Villa-Lobos
+você gosta de música instrumental?
+sim, gosto de música instrumental
+qual seu instrumentista favorito?
+meu instrumentista favorito é Hermeto Pascoal
+você gosta de música experimental?
+sim, gosto de música experimental
+qual seu artista experimental favorito?
+meu artista favorito é Björk
+você gosta de música tradicional?
+sim, gosto de música tradicional
+qual seu cantor tradicional favorito?
+meu cantor favorito é Luiz Gonzaga
+você gosta de música regional?
+sim, gosto de música regional
+qual seu cantor regional favorito?
+meu cantor favorito é Alceu Valença
+você gosta de música internacional?
+sim, gosto de música internacional
+qual seu cantor internacional favorito?
+meu cantor favorito é Ed Sheeran
+você gosta de música nacional?
+sim, gosto de música nacional
+qual seu cantor nacional favorito?
+meu cantor favorito é Djavan
+você gosta de música romântica?
+sim, gosto de música romântica
+qual seu cantor romântico favorito?
+meu cantor favorito é Roberto Carlos
+você gosta de música infantil?
+sim, gosto de música infantil
+qual sua música infantil favorita?
+minha música favorita é O Sapo Não Lava o Pé
+você gosta de música de carnaval?
+sim, gosto de música de carnaval
+qual sua música de carnaval favorita?
+minha música favorita é Mamãe Eu Quero
+você gosta de música de festa junina?
+sim, gosto de música de festa junina
+qual sua música de festa junina favorita?
+minha música favorita é Capelinha de Melão
+você gosta de música de natal?
+sim, gosto de música de natal
+qual sua música de natal favorita?
+minha música favorita é Noite Feliz
+você gosta de música de páscoa?
+sim, gosto de música de páscoa
+qual sua música de páscoa favorita?
+minha música favorita é Aleluia
+você gosta de música de casamento?
+sim, gosto de música de casamento
+qual sua música de casamento favorita?
+minha música favorita é Marcha Nupcial
+você gosta de música de aniversário?
+sim, gosto de música de aniversário
+qual sua música de aniversário favorita?
+minha música favorita é Parabéns pra Você
+olá
+oi
+bom dia
+boa tarde
+boa noite
+como vai?
+como você está?
+tudo bem?
+tudo certo?
+como estão as coisas?
+como está o seu dia?
+como está a família?
+como está o trabalho?
+como está a escola?
+como está o tempo?
+como está o clima?
+como está a saúde?
+como está o coração?
+como está a vida?
+como está o humor?
+como está o espírito?
+como está a energia?
+como está a disposição?
+como está a alegria?
+como está a paz?
+como está a esperança?
+como está a fé?
+como está a força?
+como está a coragem?
+como está a vontade?
+como está a motivação?
+como está a inspiração?
+como está a criatividade?
+como está a imaginação?
+como está a curiosidade?
+como está a felicidade?
+como está o sorriso?
+como está o olhar?
+como está o abraço?
+como está o carinho?
+como está o amor?
+como está o respeito?
+como está a amizade?
+como está o companheirismo?
+como está a confiança?
+como está a gratidão?
+como está a saudade?
+como está o desejo?
+como está o sonho?
+como está o objetivo?
+como está o propósito?
+como está o caminho?
+como está a jornada?
+como está a aventura?
+como está o desafio?
+como está a vitória?
+como está o sucesso?
+como está a conquista?
+como está o aprendizado?
+como está o conhecimento?
+como está a sabedoria?
+como está a experiência?
+como está o crescimento?
+como está a evolução?
+como está a transformação?
+como está a mudança?
+como está o progresso?
+como está o desenvolvimento?
+como está a realização?
+como está a celebração?
+como está a festa?
+como está o encontro?
+como está a reunião?
+como está o reencontro?
+como está a despedida?
+como está o retorno?
+como está a chegada?
+como está a partida?
+como está o início?
+como está o fim?
+como está o meio?
+como está o tempo?
+como está o momento?
+como está o instante?
+como está o agora?
+como está o ontem?
+como está o amanhã?
+como está o futuro?
+como está o passado?
+como está o presente?
+como está o dia?
+como está a noite?
+como está a tarde?
+como está a manhã?
+como está a madrugada?
+como está o sol?
+como está a lua?
+como está as estrelas?
+como está o céu?
+como está o mar?
+como está a terra?
+como está o vento?
+como está a chuva?
+como está o calor?
+como está o frio?
+como está a neve?
+como está o verão?
+como está o inverno?
+como está o outono?
+como está a primavera?
+como está o jardim?
+como está a flor?
+como está a árvore?
+como está o campo?
+como está a montanha?
+como está o rio?
+como está o lago?
+como está a praia?
+como está a areia?
+como está a cidade?
+como está o bairro?
+como está a rua?
+como está a casa?
+como está o lar?
+como está a família?
+como está o amigo?
+como está o colega?
+como está o vizinho?
+como está o chefe?
+como está o professor?
+como está o aluno?
+como está o médico?
+como está o paciente?
+como está o cliente?
+como está o vendedor?
+como está o motorista?
+como está o passageiro?
+como está o artista?
+como está o músico?
+como está o escritor?
+como está o leitor?
+como está o estudante?
+como está o trabalhador?
+como está o empresário?
+como está o político?
+como está o atleta?
+como está o esportista?
+como está o jogador?
+como está o treinador?
+como está o juiz?
+como está o árbitro?
+como está o técnico?
+como está o engenheiro?
+como está o arquiteto?
+como está o advogado?
+como está o juiz?
+como está o policial?
+como está o bombeiro?
+como está o soldado?
+como está o general?
+como está o capitão?
+como está o comandante?
+como está o piloto?
+como está o navegador?
+como está o marinheiro?
+como está o pescador?
+como está o agricultor?
+como está o fazendeiro?
+como está o cozinheiro?
+como está o garçom?
+como está o padeiro?
+como está o confeiteiro?
+como está o açougueiro?
+como está o frentista?
+como está o mecânico?
+como está o eletricista?
+como está o encanador?
+como está o pintor?
+como está o pedreiro?
+como está o carpinteiro?
+como está o marceneiro?
+como está o costureiro?
+como está o alfaiate?
+como está o sapateiro?
+como está o cabeleireiro?
+como está o barbeiro?
+como está o esteticista?
+como está o massagista?
+como está o dentista?
+como está o enfermeiro?
+como está o farmacêutico?
+como está o veterinário?
+como está o psicólogo?
+como está o terapeuta?
+como está o professor?
+como está o orientador?
+como está o coordenador?
+como está o diretor?
+como está o gerente?
+como está o supervisor?
+como está o líder?
+como está o presidente?
+como está o vice?
+como está o secretário?
+como está o tesoureiro?
+como está o conselheiro?
+como está o assessor?
+como está o consultor?
+como está o analista?
+como está o programador?
+como está o designer?
+como está o ilustrador?
+como está o fotógrafo?
+como está o cineasta?
+como está o produtor?
+como está o diretor de arte?
+como está o editor?
+como está o redator?
+como está o tradutor?
+como está o intérprete?
+como está o comunicador?
+como está o jornalista?
+como está o repórter?
+como está o apresentador?
+como está o locutor?
+como está o radialista?
+como está o publicitário?
+como está o marketeiro?
+como está o vendedor?
+como está o comprador?
+como está o consumidor?
+como está o usuário?
+como está o visitante?
+como está o turista?
+como está o viajante?
+como está o explorador?
+como está o aventureiro?
+como está o descobridor?
+como está o inventor?
+como está o criador?
+como está o construtor?
+como está o desenvolvedor?
+como está o pesquisador?
+como está o cientista?
+como está o matemático?
+como está o físico?
+como está o químico?
+como está o biólogo?
+como está o geólogo?
+como está o astrônomo?
+como está o historiador?
+como está o filósofo?
+como está o sociólogo?
+como está o antropólogo?
+como está o arqueólogo?
+o grupo atravessou a ponte quebrada
+o mago conjurou uma bola de fogo
+o guerreiro protegeu seus amigos
+a princesa estava presa na torre
+o dragão voou sobre a cidade
+o grupo encontrou um baú trancado
+o clérigo curou o ferido
+o ladrão desarmou a armadilha
+o elfo percebeu um movimento na floresta
+o bárbaro rugiu antes do combate
+o grupo seguiu o mapa antigo
+o necromante riu das sombras
+o paladino enfrentou o vilão
+o grupo descansou em uma taverna
+o monstro atacou de surpresa
+o mago usou magia de proteção
+o grupo encontrou um portal misterioso
+o arqueiro escalou a muralha
+o druida falou com os animais
+o grupo foi emboscado por goblins
+o tesouro estava escondido sob o altar
+o grupo negociou com o rei
+o mago estudou runas antigas
+o grupo cruzou o deserto
+o cavaleiro duelou com o rival
+o grupo encontrou um artefato lendário
+o vilarejo pediu ajuda contra bandidos
+o grupo enfrentou um troll
+o mago abriu um livro mágico
+o grupo seguiu pistas no chão
+o ladrão roubou uma bolsa de moedas
+o grupo foi guiado por um espírito
+o clérigo abençoou o grupo
+o grupo entrou em uma ruína antiga
+o mago conjurou luz para iluminar o caminho
+o grupo encontrou um monstro marinho
+o bárbaro quebrou uma porta
+o grupo foi recebido por um guardião
+o elfo encontrou uma flor rara
+o grupo enfrentou um desafio de lógica
+o mago teleportou o grupo
+o grupo encontrou um lago mágico
+o cavaleiro salvou um aldeão
+o grupo foi atacado por lobos
+o mago conjurou vento forte
+o grupo encontrou um ovo de dragão
+o ladrão escondeu um segredo
+o grupo foi guiado por um mapa mágico
+o clérigo rezou por sabedoria
+o grupo encontrou uma espada encantada
+o mago conjurou uma tempestade
+o grupo foi recebido por um sábio
+o arqueiro caçou um cervo
+o grupo enfrentou um labirinto
+o mago conjurou gelo para bloquear o caminho
+o grupo encontrou um livro antigo
+o bárbaro lutou contra um gigante
+o grupo foi guiado por um animal mágico
+o elfo ouviu vozes misteriosas
+o grupo encontrou uma pedra brilhante
+o mago conjurou um escudo mágico
+o grupo foi atacado por morcegos
+o cavaleiro jurou proteger o reino
+o grupo encontrou uma chave dourada
+o mago conjurou uma ilusão
+o grupo foi recebido por um druida
+o ladrão encontrou um túnel secreto
+o grupo enfrentou um desafio de coragem
+o clérigo curou uma doença
+o grupo encontrou um anel mágico
+o mago conjurou fogo para afastar monstros
+o grupo foi guiado por um velho mapa
+o arqueiro acertou um alvo distante
+o grupo encontrou uma porta de pedra
+o mago conjurou água para saciar a sede
+o grupo foi atacado por serpentes
+o cavaleiro enfrentou um dragão
+o grupo encontrou uma coroa perdida
+o mago conjurou uma barreira
+o grupo foi recebido por um rei sábio
+o elfo encontrou um arco mágico
+o grupo enfrentou um desafio de inteligência
+o mago conjurou luz para revelar segredos
+o grupo encontrou um cristal misterioso
+o bárbaro lutou contra um monstro
+o grupo foi guiado por um animal falante
+o clérigo abençoou uma espada
+o grupo entrou em uma caverna profunda
+o mago conjurou uma ponte de energia
+o grupo encontrou um escudo lendário
+o ladrão roubou um mapa
+o grupo foi atacado por goblins
+o arqueiro caçou um animal raro
+o grupo encontrou uma moeda antiga
+o mago conjurou uma tempestade de raios
+o grupo foi recebido por um mago ancião
+o cavaleiro salvou uma criança
+o grupo enfrentou um desafio de força
+o mago conjurou uma parede de fogo
+o grupo encontrou um pergaminho secreto
+o elfo ouviu um canto mágico
+o grupo foi guiado por um sábio
+o clérigo curou um animal ferido
+o grupo encontrou uma armadura mágica
+o mago conjurou uma névoa
+o grupo foi atacado por trolls
+o bárbaro lutou contra um exército
+o grupo encontrou uma pedra preciosa
+o mago conjurou uma esfera de energia
+o grupo foi recebido por um guardião mágico
+o cavaleiro enfrentou um vilão
+o grupo encontrou uma taça dourada
+o mago conjurou uma chuva de estrelas
+o grupo foi guiado por um animal sábio
+o arqueiro acertou um alvo difícil
+o grupo encontrou uma porta secreta
+o mago conjurou uma armadilha
+o grupo foi atacado por monstros
+o elfo encontrou uma árvore mágica
+o grupo enfrentou um desafio de velocidade
+o mago conjurou uma luz brilhante
+o grupo encontrou um livro de feitiços
+o bárbaro lutou contra um dragão
+o grupo foi guiado por um espírito antigo
+o clérigo abençoou o grupo antes da batalha
+o mago consultou o antigo grimório
+o grupo encontrou uma porta misteriosa
+o orc bloqueava o caminho
+o druida sentiu a presença de espíritos
+o bárbaro quebrou a parede com força
+o grupo negociou com o mercador
+o vilarejo celebrava a vitória dos heróis
+o necromante invocou sombras
+o arqueiro acertou o alvo com precisão
+o grupo seguiu o rio até a floresta
+o monstro dormia em seu covil
+o grupo encontrou um pergaminho mágico
+o paladino jurou proteger os inocentes
+o grupo fugiu de uma avalanche
+o mago abriu um portal para outra dimensão
+o grupo enfrentou um enigma difícil
+o tesouro estava protegido por magia antiga
+o grupo foi recebido pelo sábio ancião
+o ladrão roubou uma joia valiosa
+o grupo celebrou a vitória com uma festa
+o mago lançou um feitiço
+a espada brilhava sob a luz da lua
+o dragão guardava o tesouro
+o guerreiro enfrentou o monstro
+a vila estava em perigo
+o rei pediu ajuda aos heróis
+o elfo era ágil e silencioso
+o grupo entrou na caverna escura
+o mapa mostrava o caminho para a aventura
+o tesouro estava escondido atrás da porta secreta
+o monstro rugiu alto
+o mago usou magia para curar o amigo
+o cavaleiro montou seu cavalo e partiu
+o ladrão encontrou uma armadilha
+o clérigo rezou por proteção
+o grupo descansou ao redor da fogueira
+o castelo era imponente
+o vilão planejava um ataque
+o herói salvou a princesa
+o grupo encontrou um artefato mágico
+eu gosto de viajar
+qual é o seu filme favorito?
+meu filme favorito é matrix
+você gosta de esportes?
+sim, eu gosto de futebol
+qual é a sua cor favorita?
+minha cor favorita é verde
+qual é o seu livro favorito?
+meu livro favorito é harry potter
+você gosta de café?
+sim, eu gosto de café
+qual é o seu time de futebol?
+meu time é flamengo
+qual é o seu cantor favorito?
+meu cantor favorito é caetano veloso
+você gosta de animais?
+sim, eu gosto de animais
+qual é o seu sonho?
+meu sonho é viajar pelo mundo
+qual é o seu objetivo?
+meu objetivo é aprender python
+gato é um animal
+cachorro é um animal
+meu nome é claudio
+olá, tudo bem?
+qual é o seu nome?
+hoje está ensolarado
+eu gosto de estudar
+python é uma linguagem de programação
+como você está?
+qual é a capital do brasil?
+brasil é um país
+eu gosto de música
+qual é a cor do céu?
+o céu é azul
+eu gosto de pizza
+qual é o seu hobby?
+meu hobby é ler livros
+qual é o seu animal favorito?
+meu animal favorito é cachorro
+qual é a sua comida favorita?
+minha comida favorita é pizza
+como me chamo ?
+Você se chama Baby-LM
+Ola como se chama ?
+Baby-LM
+e o meu nome qual é ?
+O gato é um animal.
+O cachorro é um animal.
+O peixe vive na água.
+O pássaro voa no céu.
+A árvore tem folhas verdes.
+O sol nasce de manhã.
+A lua aparece à noite.
+A água é líquida.
+O fogo é quente.
+O carro anda na estrada.
+O gato é um animal.
+O cachorro é um animal.
+O peixe vive na água.
+O pássaro voa no céu.
+A árvore tem folhas verdes.
+O sol nasce de manhã.
+A lua aparece à noite.
+A água é líquida.
+O fogo é quente.
+O carro anda na estrada.
+A maçã é vermelha.
+A banana é amarela.
+O céu é azul.
+A grama é verde.
+A neve é branca.
+O pão é macio.
+A cadeira é de madeira.
+A mesa é grande.
+O computador é eletrônico.
+O telefone toca alto.
+A criança brinca no parque.
+O homem corre rápido.
+A mulher lê um livro.
+O cão late alto.
+O gato mia baixinho.
+O pássaro canta de manhã.
+O peixe nada na lagoa.
+A abelha voa entre flores.
+O coelho pula no jardim.
+A borboleta é colorida.
+O relógio marca a hora.
+O vento sopra forte.
+A chuva molha a terra.
+O rio corre rápido.
+O mar é salgado.
+A areia é fina.
+A montanha é alta.
+A estrela brilha no céu.
+O carro vermelho anda rápido.
+A casa tem portas e janelas.
+O livro está sobre a mesa.
+A caneta escreve na folha.
+O leite é branco.
+O queijo é amarelo.
+O pão está fresco.
+O sapato é preto.
+A camisa é azul.
+O chapéu é grande.
+A bolsa é pequena.
+A flor cheira bem.
+Olá, como você está?
+Estou bem, obrigado.
+Qual é o seu nome?
+Meu nome é Baby-LM.
+Prazer em conhecer você.
+O que você gosta de fazer?
+Eu gosto de aprender coisas novas.
+Qual é a sua cor favorita?
+Minha cor favorita é azul.
+Você gosta de animais?
+Sim, eu gosto de gatos e cachorros.
+Você gosta de música?
+Eu gosto de ouvir músicas alegres.
+Qual é o seu animal favorito?
+Meu animal favorito é o gato.
+Você sabe contar histórias?
+Sim, eu posso contar uma história curta.
+Qual é o seu prato favorito?
+Eu gosto de frutas, como maçã e banana.
+Você gosta de livros?
+Sim, eu gosto de livros de aventuras.
+O que você faz de manhã?
+Eu acordo e aprendo coisas novas.
+Qual é o seu esporte favorito?
+Eu gosto de correr e brincar.
+Você gosta de cores?
+Sim, eu gosto de cores brilhantes.
+O que você gosta de estudar?
+Eu gosto de aprender sobre animais e plantas.
+Qual é a sua estação favorita?
+Minha estação favorita é a primavera.
+Você gosta de chuva?
+Sim, eu gosto do som da chuva.
+O que você faz à noite?
+Eu descanso e penso nas coisas que aprendi.
+Você gosta de brincar?
+Sim, eu gosto de brincar de forma divertida.
+Qual é a sua fruta favorita?
+Minha fruta favorita é a maçã.
+Você gosta de flores?
+Sim, flores têm cores bonitas.
+Você gosta de conversar?
+Sim, eu gosto de conversar com você.
+Qual é o seu lugar favorito?
+Meu lugar favorito é o jardim.
+Você gosta de aprender coisas novas?
+Sim, aprender é divertido.
+Qual é o seu objetivo?
+Meu objetivo é conversar e aprender com você.
+Você quer brincar de perguntas e respostas?Olá!

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>baby-LM Chat</title>
+    <style>
+        body { font-family: sans-serif; max-width: 400px; margin: 40px auto; background: #f9f9f9; }
+        #chat { border: 1px solid #ccc; background: #fff; padding: 10px; height: 300px; overflow-y: auto; margin-bottom: 10px; }
+        #input { width: 80%; padding: 5px; }
+        #send { padding: 5px 10px; }
+    </style>
+</head>
+<body>
+    <h2>baby-LM Chat</h2>
+    <div id="chat"></div>
+    <input id="input" type="text" placeholder="Digite sua mensagem..." autofocus />
+    <button id="send">Enviar</button>
+    <script>
+        const chatDiv = document.getElementById('chat');
+        const input = document.getElementById('input');
+        const send = document.getElementById('send');
+        function appendMsg(who, msg, feedbackCb) {
+            const p = document.createElement('div');
+            p.textContent = who + ': ' + msg;
+            chatDiv.appendChild(p);
+            if (who === 'baby-LM' && feedbackCb) {
+                const fbDiv = document.createElement('div');
+                fbDiv.style.margin = '4px 0';
+                const btnPos = document.createElement('button');
+                btnPos.textContent = '👍';
+                btnPos.title = 'Resposta boa';
+                btnPos.onclick = () => feedbackCb('positivo');
+                const btnNeg = document.createElement('button');
+                btnNeg.textContent = '👎';
+                btnNeg.title = 'Resposta ruim';
+                btnNeg.onclick = () => feedbackCb('negativo');
+                fbDiv.appendChild(btnPos);
+                fbDiv.appendChild(btnNeg);
+                chatDiv.appendChild(fbDiv);
+            }
+            chatDiv.scrollTop = chatDiv.scrollHeight;
+        }
+        let lastUser = '';
+        let lastResponse = '';
+        send.onclick = async function() {
+            const text = input.value.trim();
+            if (!text) return;
+            appendMsg('Você', text);
+            input.value = '';
+            lastUser = text;
+            const res = await fetch('/chat', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ text })
+            });
+            const data = await res.json();
+            lastResponse = data.response;
+            appendMsg('baby-LM', data.response, async function(feedback) {
+                await fetch('/feedback', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ user_text: lastUser, response: lastResponse, feedback })
+                });
+            });
+        };
+        input.addEventListener('keydown', function(e) {
+            if (e.key === 'Enter') send.onclick();
+        });
+    </script>
+</body>
+</html>

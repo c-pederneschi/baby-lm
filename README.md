@@ -1,3 +1,12 @@
+## Como iniciar o servidor
+
+Para rodar o servidor FastAPI localmente, execute:
+
+```bash
+uvicorn app:app --host 0.0.0.0 --port 8000
+```
+
+O servidor ficará disponível em http://localhost:8000
 # baby-LM
 
 A tiny experimental language model that **starts knowing nothing** and learns gradually through interaction.
